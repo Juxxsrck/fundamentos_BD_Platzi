@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T03:49:01.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="96x21M8lp-IDfJbFSfpF" version="20.3.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-20T03:49:23.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="XXeWxJkoQ3YpwoxJgMMe" version="20.3.3" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Inicio_Proyecto">
     <mxGraphModel dx="899" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1127,15 +1127,6 @@
         <mxCell id="wH-621oGxoVHdXjy3fLz-5" value="INTEGER" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="wH-621oGxoVHdXjy3fLz-2" vertex="1">
           <mxGeometry x="160" width="125" height="30" as="geometry">
             <mxRectangle width="125" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Y272NqButrNnF6Kp-u35-96" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERmany;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;endFill=0;startArrow=ERone;startFill=0;targetPerimeterSpacing=0;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Y272NqButrNnF6Kp-u35-68" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="125" y="1150" as="sourcePoint" />
-            <mxPoint x="255" y="1180" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="175" y="1185" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EHNaqbLeDN7w9jNBi3Sh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontSize=16;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;targetPerimeterSpacing=0;dashed=1;" parent="1" source="Y272NqButrNnF6Kp-u35-2" target="Y272NqButrNnF6Kp-u35-52" edge="1">
